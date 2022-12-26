@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @branisHOUCHI
 - 👀 I’m interested in data science and coding
-- 🌱 I’m currently learning in universités or Perpignan 
--
+- 🌱 I’m currently learning in universités of Perpignan 
+
 
 <!---
 branisHOUCHI/branisHOUCHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
